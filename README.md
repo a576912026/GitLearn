@@ -12,3 +12,5 @@
 2. 补充内容到对应的文件(如果没有则新建)
 3. 发起`pull request`
 4. 实践后没问题会合并到当前仓库
+
+myfirst git product
