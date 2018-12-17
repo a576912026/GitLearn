@@ -14,3 +14,5 @@
 4. 实践后没问题会合并到当前仓库
 
 myfirst git product
+
+mysecond git product
